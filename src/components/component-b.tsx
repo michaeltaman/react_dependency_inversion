@@ -1,6 +1,4 @@
-import { ChildComponent } from './component-a';
-
-export const ComponentB :ChildComponent =() => {
+export const ComponentB =() => {
 
     return (
         <div className="text-green">
